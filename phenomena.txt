@@ -1,0 +1,9 @@
+Phenomena
+1) Pass holders (Customers) vs. Annual Subscription
+2) Weekend vs. Weekday patterns
+
+There is a strong ridership of annual subscription holders. They make up 81% of the customer base. The annual subscriber is inclined to complete their journey in about 13 minutes as compared to a customer who would take 34 minutes on a trip. This is in relatively similar distance, with a difference of a quarter of a mile. The subscriber rides at a speed of 5.7 mph, as opposed to a customer who rides at a leisurely speed of 4.1 mph. 
+
+Subscription riders are the primary users of the Citibikes on weekdays, this leads us to the next phenomenon. There is a clear differentiation between weekday and weekend use. There are distinct times during the weekdays which there is a large uptick of rides. It coincides with commute hours; in the morning between 7-9 and a surge at 5 PM with 179K users. On the weekends, they are consistently in use between 11am - 6pm. 
+
+Further analysis at the commuter times, we can find the most popular stations and the frequented trips in the morning and evening. By mapping out the start and end stations you can see that that in the morning, the riders start at stations that are more spread out, with one station in particular with high density of users. The riders end at stations throughout the city with high density in a few spots. In the evening commute, it picks up where the riders left off.
